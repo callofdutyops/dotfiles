@@ -1,0 +1,10 @@
+{
+    "remoteaddr":"167.99.101.228:4567",
+    "localaddr":"127.0.0.1:5333",
+    "key": "kcp",
+    "crypt":"aes-128",
+    "nocomp":true,
+    "mode":"fast2",
+    "sndwnd":512,
+    "rcvwnd": 1024
+}
